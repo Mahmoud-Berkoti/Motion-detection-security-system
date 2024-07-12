@@ -1,7 +1,7 @@
 '''
 - Submission date: June 19, 2023
 
-- Group members: Abaan Noman, Abdullah Shibib, Angkush Moosai
+- Group members: Abaan Noman, Abdullah Shibib, Mahmoud Berkoti
 
 Program description: 
 This program is a motion detection application that utilizes a camera feed. 
